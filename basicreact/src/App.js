@@ -2,7 +2,7 @@
 
 function App() {
   return (
-    <h1 class="text-red-800" >Coffee aur React | iammzeeshan</h1>
+    <h1 class="text-red-400" >Coffee aur React | iammzeeshan</h1>
   )
 }
 
